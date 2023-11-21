@@ -26,7 +26,7 @@ Execute the program and see the result
 
 
 # Code:
-
+```
 <html>
     <head>
         <title>
@@ -38,7 +38,7 @@ Execute the program and see the result
             <font color="red"><b>Thirupathi</b></font>
         </h1>
         <h2 align="center">
-            <font color="violet"><b>Jeshwanth kumar 23002519</b></font>
+            <font color="violet"><b>KumarTeja N 23003525</b></font>
         </h2>
         <center>
             <img src="map.png" usemap="#image_map">
@@ -147,7 +147,7 @@ both.html
         </p>
     </head>
 </html>
-
+```
 
 
 # Output:
