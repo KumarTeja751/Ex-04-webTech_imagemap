@@ -161,3 +161,4 @@ both.html
 
 
 # Result:
+Image-maps has been created successfully
